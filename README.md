@@ -1,4 +1,4 @@
-Hi I'm Trevor Dalton! I'm a Software Engineer who is aspiring to become a Data Scientist. Currently working on my Master's via a Data Science program at UC Berkeley. I work remotely for Northrop Grumman as a Software Engineer.
+Hi I'm Trevor Dalton! I'm a Data Engineer @ M Science by day and a MIDS student @ UC Berkeley by night.
 
 I am interested Machine Learning, Data Visualization, and Cloud Computing.
 
